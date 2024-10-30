@@ -1,0 +1,47 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+body {background-color: #fcf0e3;}
+
+	.column {float: left;
+  			width: 50%;}
+
+	/* Clear floats after the columns */
+	.row:after { content: "";
+	  display: table;
+	  clear: both;}
+
+	.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #faa343 !important;}
+
+     /* Modify brand and text color */
+		 .nav.nav-underline li a {
+			    color: #faa343;}
+
+	.name { text-align: center;}
+
+	h1{font-family: "Jaini", system-ui;
+  		font-weight: 400;
+  		font-style: normal;}
+
+  	h2{font-family: "IBM Plex Sans Condensed", sans-serif;
+		font-weight: 700;
+		font-style: italic;}
+
+  	h4{font-family: "Montserrat", sans-serif;
+  		font-weight: 400;
+  		font-style: normal;}
+
+    h5{font-family: "Montserrat", sans-serif;
+  		font-weight: 400;
+  		font-style: normal;}
+
+  	h6{font-family: "Montserrat", sans-serif;
+  		font-weight: 400;
+  		font-style: normal;}
+
+  	p{font-family: "News Cycle", sans-serif;
+		font-weight: 400;
+		font-style: normal;}
+
+	ul{font-family: "Montserrat", sans-serif;
+  		font-weight: 400;
+  		font-style: normal;}
